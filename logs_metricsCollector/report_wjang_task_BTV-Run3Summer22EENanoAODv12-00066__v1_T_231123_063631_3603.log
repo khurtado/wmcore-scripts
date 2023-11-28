@@ -1,0 +1,42 @@
+file = ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5835/Job_5835417.tar.bz2
+file = ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5885/Job_5885780.tar.bz2
+file = ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5895/Job_5895506.tar.bz2
+file = ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5878/Job_5878336.tar.bz2
+file = ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5893/Job_5893744.tar.bz2
+---------------------------------
+Report file: ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5835/Job_5835417.tar.bz2
+WMTimes collected: {'WM_wrapper': 13469.0, 'cmsRun1': 13457.529032230377, 'cmsRun1--WMCMSSWSubprocess': 13162.31141614914, 'cmsRun1--TotalJobTime': 13157.2, 'stageOut1': 7.992840051651001, 'logArch1': 1.6163544654846191}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.98617734610968 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.96116627249172
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 97.68505456975277 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 97.72300405486034 %
+WM_subprocess_eff[cmsRun1] = 99.96116627249172 %
+---------------------------------
+Report file: ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5885/Job_5885780.tar.bz2
+WMTimes collected: {'WM_wrapper': 3324.0, 'cmsRun1': 3301.6879665851593, 'cmsRun1--WMCMSSWSubprocess': 3261.2920668125153, 'cmsRun1--TotalJobTime': 3257.45, 'stageOut1': 17.155654191970825, 'logArch1': 2.2065353393554688}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.91125620085697 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.88219188181233
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 97.99789410348977 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 98.11347974766893 %
+WM_subprocess_eff[cmsRun1] = 99.88219188181233 %
+---------------------------------
+Report file: ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5895/Job_5895506.tar.bz2
+WMTimes collected: {'WM_wrapper': 9.0, 'cleanupUnmergedNANOEDMAODSIMoutput': 6.641216278076172}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 73.79129197862413 %
+- cmsRun metrics
+---------------------------------
+Report file: ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5878/Job_5878336.tar.bz2
+WMTimes collected: {'WM_wrapper': 6544.0, 'cmsRun1': 6500.820613384247, 'cmsRun1--WMCMSSWSubprocess': 6450.614708662033, 'cmsRun1--TotalJobTime': 6444.49, 'stageOut1': 35.112987756729126, 'logArch1': 4.300198316574097}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.94244803572052 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.90505232541933
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 98.47937041564792 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 98.57296315192593 %
+WM_subprocess_eff[cmsRun1] = 99.90505232541933 %
+---------------------------------
+Report file: ../wjang_task_BTV-Run3Summer22EENanoAODv12-00066__v1_T_231123_063631_3603/JobCluster_5893/Job_5893744.tar.bz2
+WMTimes collected: {'WM_wrapper': 5.0, 'cleanupUnmergedNANOEDMAODSIMoutput': 2.7954671382904053}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 55.9093427658081 %
+- cmsRun metrics

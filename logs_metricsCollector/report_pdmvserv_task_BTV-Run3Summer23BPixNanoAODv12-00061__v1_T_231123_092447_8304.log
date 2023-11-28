@@ -1,0 +1,58 @@
+file = ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5835/Job_5835631.tar.bz2
+file = ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5898/Job_5898251.tar.bz2
+file = ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5903/Job_5903940.tar.bz2
+file = ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5887/Job_5887426.tar.bz2
+file = ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5897/Job_5897884.tar.bz2
+file = ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5908/Job_5908821.tar.bz2
+file = ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5882/Job_5882200.tar.bz2
+---------------------------------
+Report file: ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5835/Job_5835631.tar.bz2
+WMTimes collected: {'WM_wrapper': 8091.0, 'cmsRun1': 8075.066231012344, 'cmsRun1--WMCMSSWSubprocess': 8049.11611866951, 'cmsRun1--TotalJobTime': 8046.49, 'stageOut1': 11.792450428009033, 'logArch1': 3.002403974533081}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.98592368576055 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.96737382551335
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 99.44988258558892 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 99.48233986737746 %
+WM_subprocess_eff[cmsRun1] = 99.96737382551335 %
+---------------------------------
+Report file: ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5898/Job_5898251.tar.bz2
+WMTimes collected: {'WM_wrapper': 459.0, 'logCollect1': 457.740838766098}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.72567293379042 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5903/Job_5903940.tar.bz2
+WMTimes collected: {'WM_wrapper': 3.0, 'cleanupUnmergedNANOEDMAODSIMoutput': 0.7671604156494141}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 25.57201385498047 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5887/Job_5887426.tar.bz2
+WMTimes collected: {'WM_wrapper': 3889.0, 'cmsRun1': 3852.357013940811, 'cmsRun1--WMCMSSWSubprocess': 3808.163572072983, 'cmsRun1--TotalJobTime': 3803.95, 'stageOut1': 30.632953882217407, 'logArch1': 2.2820186614990234}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.90413953418688 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.88935422564612
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 97.81306248392903 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 97.92140838449428 %
+WM_subprocess_eff[cmsRun1] = 99.88935422564612 %
+---------------------------------
+Report file: ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5897/Job_5897884.tar.bz2
+WMTimes collected: {'WM_wrapper': 5918.0, 'cmsRun1': 1091.9324026107788, 'cmsRun1--WMCMSSWSubprocess': 1034.133419752121, 'cmsRun1--TotalJobTime': 1028.8, 'stageOut1': 4803.376868724823, 'logArch1': 17.581472396850586}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.9136658285308 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.48426192885252
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 17.384251436296044 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 17.474373432783388 %
+WM_subprocess_eff[cmsRun1] = 99.48426192885252 %
+---------------------------------
+Report file: ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5908/Job_5908821.tar.bz2
+WMTimes collected: {'WM_wrapper': 26.0, 'logCollect1': 20.972150325775146}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 80.66211663759671 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_BTV-Run3Summer23BPixNanoAODv12-00061__v1_T_231123_092447_8304/JobCluster_5882/Job_5882200.tar.bz2
+WMTimes collected: {'WM_wrapper': 13496.0, 'cmsRun1': 4665.684489488602, 'cmsRun1--WMCMSSWSubprocess': 4622.5642256736755, 'cmsRun1--TotalJobTime': 4618.12, 'stageOut1': 5151.896112203598, 'logArch1': 3676.179691553116}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.98340466245787 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.9038580005229
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 34.21843509187907 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 34.25136503907584 %
+WM_subprocess_eff[cmsRun1] = 99.9038580005229 %

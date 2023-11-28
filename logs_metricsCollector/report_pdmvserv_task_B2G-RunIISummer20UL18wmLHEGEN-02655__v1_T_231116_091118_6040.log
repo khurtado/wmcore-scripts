@@ -1,0 +1,156 @@
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6511/Job_6511645.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6394/Job_6394525.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6357/Job_6357911.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6497/Job_6497005.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6403/Job_6403227.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6546/Job_6546294.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6379/Job_6379073.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6808/Job_6808622.tar.bz2
+Could not extract report file from: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6808/Job_6808622.tar.bz2, skipping.
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6366/Job_6366025.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6290/Job_6290481.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6701/Job_6701031.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6555/Job_6555593.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6552/Job_6552724.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6463/Job_6463717.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6209/Job_6209847.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6367/Job_6367695.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6556/Job_6556210.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6719/Job_6719031.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6672/Job_6672747.tar.bz2
+file = ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6362/Job_6362502.tar.bz2
+Could not extract report file from: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6362/Job_6362502.tar.bz2, skipping.
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6511/Job_6511645.tar.bz2
+WMTimes collected: {'WM_wrapper': 3071.0, 'cmsRun1': 3034.0747549533844, 'cmsRun1--WMCMSSWSubprocess': 2836.857861995697, 'cmsRun1--TotalJobTime': 2833.33, 'stageOut1': 22.267969369888306, 'logArch1': 3.4161386489868164}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.6339584165503 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.87564191907678
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 92.26082709215238 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 92.37570374456845 %
+WM_subprocess_eff[cmsRun1] = 99.87564191907678 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6394/Job_6394525.tar.bz2
+WMTimes collected: {'WM_wrapper': 38038.0, 'cmsRun1': 37913.30183506012, 'cmsRun1--WMCMSSWSubprocess': 37707.51113820076, 'cmsRun1--TotalJobTime': 37704.8, 'stageOut1': 119.37169861793518, 'logArch1': 2.4535892009735107}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.99244734970037 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.99281008446614
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 99.12403386087597 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 99.13116130764172 %
+WM_subprocess_eff[cmsRun1] = 99.99281008446614 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6357/Job_6357911.tar.bz2
+WMTimes collected: {'WM_wrapper': 5656.0, 'cmsRun1': 5447.331033945084, 'cmsRun1--WMCMSSWSubprocess': 5372.272896289825, 'cmsRun1--TotalJobTime': 5369.8, 'stageOut1': 205.54333066940308, 'logArch1': 1.4392123222351074}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.97018346776382 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.95396927264188
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 94.93988684582744 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 94.98360849168715 %
+WM_subprocess_eff[cmsRun1] = 99.95396927264188 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6497/Job_6497005.tar.bz2
+WMTimes collected: {'WM_wrapper': 6031.0, 'cmsRun1': 5996.7204921245575, 'cmsRun1--WMCMSSWSubprocess': 5906.376112699509, 'cmsRun1--TotalJobTime': 5902.91, 'stageOut1': 29.85944128036499, 'logArch1': 1.64436936378479}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.95397616927055 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.94131574702708
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 97.87613994362461 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 97.93361155197329 %
+WM_subprocess_eff[cmsRun1] = 99.94131574702708 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6403/Job_6403227.tar.bz2
+WMTimes collected: {'WM_wrapper': 4972.0, 'cmsRun1': 4708.439831972122, 'cmsRun1--WMCMSSWSubprocess': 4556.76140332222, 'cmsRun1--TotalJobTime': 4554.6, 'stageOut1': 259.41065979003906, 'logArch1': 2.4894731044769287}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.96661232636038 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.9525671166227
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 91.60498793242157 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 91.6484594393045 %
+WM_subprocess_eff[cmsRun1] = 99.9525671166227 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6546/Job_6546294.tar.bz2
+WMTimes collected: {'WM_wrapper': 10846.0, 'cmsRun1': 10788.676453590393, 'cmsRun1--WMCMSSWSubprocess': 10525.206537008286, 'cmsRun1--TotalJobTime': 10521.9, 'stageOut1': 50.822731494903564, 'logArch1': 3.12133526802063}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.9688412350481 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.96858458789707
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 97.0118015858381 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 97.042287820471 %
+WM_subprocess_eff[cmsRun1] = 99.96858458789707 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6379/Job_6379073.tar.bz2
+WMTimes collected: {'WM_wrapper': 5405.0, 'cmsRun1': 5150.837108135223, 'cmsRun1--WMCMSSWSubprocess': 4989.2366938591, 'cmsRun1--TotalJobTime': 4987.32, 'stageOut1': 250.20125436782837, 'logArch1': 2.442157745361328}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.97188751615936 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.96158342494635
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 92.27234042553191 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 92.30780192153748 %
+WM_subprocess_eff[cmsRun1] = 99.96158342494635 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6366/Job_6366025.tar.bz2
+WMTimes collected: {'WM_wrapper': 16052.0, 'cmsRun1': 15506.618381977081, 'cmsRun1--WMCMSSWSubprocess': 15309.448388814926, 'cmsRun1--TotalJobTime': 15306.5, 'stageOut1': 540.96764087677, 'logArch1': 1.3974454402923584}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.98120775164556 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.98074137787303
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 95.35571891353104 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 95.37408664848572 %
+WM_subprocess_eff[cmsRun1] = 99.98074137787303 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6290/Job_6290481.tar.bz2
+WMTimes collected: {'WM_wrapper': 14743.0, 'cmsRun1': 14711.491763353348, 'cmsRun1--WMCMSSWSubprocess': 14689.24880862236, 'cmsRun1--TotalJobTime': 14688.1, 'stageOut1': 28.633144855499268, 'logArch1': 1.0295071601867676}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.98748162089828 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.99217925547231
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 99.6276198874042 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 99.6354121184451 %
+WM_subprocess_eff[cmsRun1] = 99.99217925547231 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6701/Job_6701031.tar.bz2
+WMTimes collected: {'WM_wrapper': 8.0, 'cleanupUnmergedRAWSIMoutput': 3.6003119945526123}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 45.003899931907654 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6555/Job_6555593.tar.bz2
+WMTimes collected: {'WM_wrapper': 61.0, 'logCollect1': 57.66437339782715}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 94.5317596685691 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6552/Job_6552724.tar.bz2
+WMTimes collected: {'WM_wrapper': 6.0, 'cleanupUnmergedRAWSIMoutput': 1.2665107250213623}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 21.10851208368937 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6463/Job_6463717.tar.bz2
+WMTimes collected: {'WM_wrapper': 10957.0, 'cmsRun1': 10736.713975906372, 'cmsRun1--WMCMSSWSubprocess': 10564.362844228745, 'cmsRun1--TotalJobTime': 10561.2, 'stageOut1': 215.0553481578827, 'logArch1': 1.9527418613433838}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.9700836536059 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.9700611927536
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 96.38769736241673 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 96.41656333146614 %
+WM_subprocess_eff[cmsRun1] = 99.9700611927536 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6209/Job_6209847.tar.bz2
+WMTimes collected: {'WM_wrapper': 23659.0, 'cmsRun1': 23569.612093687057, 'cmsRun1--WMCMSSWSubprocess': 23399.72008919716, 'cmsRun1--TotalJobTime': 23397.6, 'stageOut1': 79.6287829875946, 'logArch1': 6.290834426879883}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.98534050932639 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.99093968137619
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 98.89513504374656 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 98.9040960699825 %
+WM_subprocess_eff[cmsRun1] = 99.99093968137619 %
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6367/Job_6367695.tar.bz2
+WMTimes collected: {'WM_wrapper': 3.0, 'cleanupUnmergedRAWSIMoutput': 0.7816131114959717}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 26.053770383199055 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6556/Job_6556210.tar.bz2
+WMTimes collected: {'WM_wrapper': 18.0, 'cleanupUnmergedRAWSIMoutput': 15.725189447402954}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 87.36216359668308 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6719/Job_6719031.tar.bz2
+WMTimes collected: {'WM_wrapper': 6.0, 'cleanupUnmergedRAWSIMoutput': 3.1181912422180176}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 51.96985403696696 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_B2G-RunIISummer20UL18wmLHEGEN-02655__v1_T_231116_091118_6040/JobCluster_6672/Job_6672747.tar.bz2
+WMTimes collected: {'WM_wrapper': 9.0, 'cleanupUnmergedRAWSIMoutput': 6.559545040130615}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 72.88383377922905 %
+- cmsRun metrics

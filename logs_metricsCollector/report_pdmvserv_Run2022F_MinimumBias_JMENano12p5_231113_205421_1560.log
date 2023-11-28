@@ -1,0 +1,135 @@
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3781/Job_3781449.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3840/Job_3840671.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3877/Job_3877120.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3991/Job_3991484.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3970/Job_3970697.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3863/Job_3863557.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_4029/Job_4029534.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3843/Job_3843967.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3811/Job_3811895.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3770/Job_3770801.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3790/Job_3790019.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3993/Job_3993226.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3771/Job_3771230.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_4030/Job_4030095.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3971/Job_3971170.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3798/Job_3798077.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3810/Job_3810305.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3802/Job_3802749.tar.bz2
+file = ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3792/Job_3792354.tar.bz2
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3781/Job_3781449.tar.bz2
+WMTimes collected: {'WM_wrapper': 924.0, 'cmsRun1': 916.7584991455078, 'cmsRun1--WMCMSSWSubprocess': 873.1216247081757, 'cmsRun1--TotalJobTime': 868.712, 'stageOut1': 1.5045585632324219, 'logArch1': 0.8310024738311768}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.46905413231293 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.49495871097575
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 94.01645021645022 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 94.49368232772464 %
+WM_subprocess_eff[cmsRun1] = 99.49495871097575 %
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3840/Job_3840671.tar.bz2
+WMTimes collected: {'WM_wrapper': 3878.0, 'cmsRun1': 3862.6647865772247, 'cmsRun1--WMCMSSWSubprocess': 3822.400890111923, 'cmsRun1--TotalJobTime': 3818.18, 'stageOut1': 9.29732084274292, 'logArch1': 3.124155044555664}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.9248649423549 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.88957489721075
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 98.45745229499741 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 98.56629422671283 %
+WM_subprocess_eff[cmsRun1] = 99.88957489721075 %
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3877/Job_3877120.tar.bz2
+WMTimes collected: {'WM_wrapper': 4847.0, 'cmsRun1': 4822.094708681107, 'cmsRun1--WMCMSSWSubprocess': 4751.641372919083, 'cmsRun1--TotalJobTime': 4739.57, 'stageOut1': 15.62022614479065, 'logArch1': 4.103990793228149}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.89310760509852 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.74595361956648
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 97.78357747060036 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 98.03262580810981 %
+WM_subprocess_eff[cmsRun1] = 99.74595361956648 %
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3991/Job_3991484.tar.bz2
+WMTimes collected: {'WM_wrapper': 2.0, 'cleanupUnmergedNANOEDMAODoutput': 0.8361074924468994}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 41.80537462234497 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3970/Job_3970697.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_3970697/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3863/Job_3863557.tar.bz2
+WMTimes collected: {'WM_wrapper': 3660.0, 'cmsRun1': 3643.509482860565, 'cmsRun1--WMCMSSWSubprocess': 3593.3672997951508, 'cmsRun1--TotalJobTime': 3588.63, 'stageOut1': 10.949625730514526, 'logArch1': 1.8510093688964844}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.89918355081903 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.86816544483442
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 98.05 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 98.17943442063253 %
+WM_subprocess_eff[cmsRun1] = 99.86816544483442 %
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_4029/Job_4029534.tar.bz2
+WMTimes collected: {'WM_wrapper': 15.0, 'cleanupUnmergedNANOEDMAODoutput': 9.755906343460083}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 65.03937562306722 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3843/Job_3843967.tar.bz2
+WMTimes collected: {'WM_wrapper': 1650.0, 'cmsRun1': 1642.3950798511505, 'cmsRun1--WMCMSSWSubprocess': 1621.663325548172, 'cmsRun1--TotalJobTime': 1618.42, 'stageOut1': 4.588414669036865, 'logArch1': 2.0700254440307617}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.94263757358898 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.80000006801191
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 98.08606060606061 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 98.2826257907983 %
+WM_subprocess_eff[cmsRun1] = 99.80000006801191 %
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3811/Job_3811895.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_3811895/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3770/Job_3770801.tar.bz2
+WMTimes collected: {'WM_wrapper': 771.0, 'cmsRun1': 766.7938902378082, 'cmsRun1--WMCMSSWSubprocess': 688.7228565216064, 'cmsRun1--TotalJobTime': 685.105, 'stageOut1': 1.5927965641021729, 'logArch1': 0.9660205841064453}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.7863433704302 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.47470067424821
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 88.85927367055771 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 89.32851576155726 %
+WM_subprocess_eff[cmsRun1] = 99.47470067424821 %
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3790/Job_3790019.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_3790019/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3993/Job_3993226.tar.bz2
+WMTimes collected: {'WM_wrapper': 3.0, 'cleanupUnmergedNANOEDMAODoutput': 1.6074070930480957}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 53.58023643493652 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3771/Job_3771230.tar.bz2
+WMTimes collected: {'WM_wrapper': 184.0, 'cmsRun1': 180.6218225955963, 'cmsRun1--WMCMSSWSubprocess': 157.50669932365417, 'cmsRun1--TotalJobTime': 155.497, 'stageOut1': 0.6426844596862793, 'logArch1': 0.6448183059692383}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 98.86376378328904 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 98.72405470225459
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 84.50923913043479 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 85.60146702372509 %
+WM_subprocess_eff[cmsRun1] = 98.72405470225459 %
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_4030/Job_4030095.tar.bz2
+WMTimes collected: {'WM_wrapper': 21.0, 'logCollect1': 19.713122129440308}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 93.87201014019195 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3971/Job_3971170.tar.bz2
+WMTimes collected: {'WM_wrapper': 60.0, 'logCollect1': 58.25852012634277}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 97.09753354390462 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3798/Job_3798077.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_3798077/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3810/Job_3810305.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_3810305/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3802/Job_3802749.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_3802749/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_Run2022F_MinimumBias_JMENano12p5_231113_205421_1560/JobCluster_3792/Job_3792354.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_3792354/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'

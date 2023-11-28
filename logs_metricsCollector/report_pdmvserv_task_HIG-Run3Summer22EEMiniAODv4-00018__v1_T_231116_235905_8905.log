@@ -1,0 +1,107 @@
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_6345/Job_6345842.tar.bz2
+Could not extract report file from: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_6345/Job_6345842.tar.bz2, skipping.
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5793/Job_5793153.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5502/Job_5502700.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5927/Job_5927423.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5084/Job_5084395.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5472/Job_5472617.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5812/Job_5812749.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5475/Job_5475541.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5086/Job_5086516.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5929/Job_5929793.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5085/Job_5085041.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5083/Job_5083751.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5478/Job_5478811.tar.bz2
+file = ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5811/Job_5811832.tar.bz2
+Could not extract report file from: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5811/Job_5811832.tar.bz2, skipping.
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5793/Job_5793153.tar.bz2
+WMTimes collected: {'WM_wrapper': 11.0, 'logCollect1': 8.134520769119263}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 73.9501888101751 %
+- cmsRun metrics
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5502/Job_5502700.tar.bz2
+WMTimes collected: {'WM_wrapper': 65.0, 'cmsRun1': 61.383750677108765, 'cmsRun1--WMCMSSWSubprocess': 38.38719964027405, 'cmsRun1--TotalJobTime': 34.8278, 'stageOut1': 1.2951207160949707, 'logArch1': 1.0297496318817139}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 98.01326311551608 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 90.72763922966736
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 53.58123076923077 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 59.05723021580622 %
+WM_subprocess_eff[cmsRun1] = 90.72763922966736 %
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5927/Job_5927423.tar.bz2
+WMTimes collected: {'WM_wrapper': 56.0, 'cmsRun1': 52.69429636001587, 'cmsRun1--WMCMSSWSubprocess': 27.815693855285645, 'cmsRun1--TotalJobTime': 24.7777, 'stageOut1': 0.858809232711792, 'logArch1': 1.247105598449707}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 97.8575199842453 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 89.07813024154221
+Warning, take a look at the efficiency above
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 44.245892857142856 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 49.67088188443865 %
+WM_subprocess_eff[cmsRun1] = 89.07813024154221 %
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5084/Job_5084395.tar.bz2
+WMTimes collected: {'WM_wrapper': 453.0, 'cmsRun1': 448.05831146240234, 'cmsRun1--WMCMSSWSubprocess': 373.5547664165497, 'cmsRun1--TotalJobTime': 368.504, 'stageOut1': 1.1432867050170898, 'logArch1': 0.757774829864502}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.32877991110021 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 98.64791809110058
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 81.34746136865343 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 82.46242084250545 %
+WM_subprocess_eff[cmsRun1] = 98.64791809110058 %
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5472/Job_5472617.tar.bz2
+WMTimes collected: {'WM_wrapper': 58.0, 'cmsRun1': 52.10674691200256, 'cmsRun1--WMCMSSWSubprocess': 28.289587020874023, 'cmsRun1--TotalJobTime': 25.617, 'stageOut1': 2.3788154125213623, 'logArch1': 1.171020269393921}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 95.95962516192732 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 90.55275349582868
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 44.16724137931035 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 48.7751500359897 %
+WM_subprocess_eff[cmsRun1] = 90.55275349582868 %
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5812/Job_5812749.tar.bz2
+WMTimes collected: {'WM_wrapper': 74.0, 'cmsRun1': 71.45959043502808, 'cmsRun1--WMCMSSWSubprocess': 45.46871757507324, 'cmsRun1--TotalJobTime': 42.8639, 'stageOut1': 0.537647008895874, 'logArch1': 0.687631368637085}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 98.22279569265004 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 94.2711875021053
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 57.92418918918919 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 61.444212939288164 %
+WM_subprocess_eff[cmsRun1] = 94.2711875021053 %
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5475/Job_5475541.tar.bz2
+WMTimes collected: {'WM_wrapper': 1811.0, 'cmsRun1': 558.3673646450043, 'cmsRun1--WMCMSSWSubprocess': 525.9454627037048, 'cmsRun1--TotalJobTime': 523.721, 'stageOut1': 1247.641189813614, 'logArch1': 3.5739617347717285}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.92172922105964 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.57705449301348
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 28.91888459414688 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 29.041715223837926 %
+WM_subprocess_eff[cmsRun1] = 99.57705449301348 %
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5086/Job_5086516.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_5086516/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5929/Job_5929793.tar.bz2
+WMTimes collected: {'WM_wrapper': 53.0, 'cmsRun1': 45.612659215927124, 'cmsRun1--WMCMSSWSubprocess': 22.240798950195312, 'cmsRun1--TotalJobTime': 19.5534, 'stageOut1': 1.1074388027191162, 'logArch1': 1.1145596504211426}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 90.25407107371204 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 87.91680570372804
+Warning, take a look at the efficiency above
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 36.89320754716981 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 41.963771604142096 %
+WM_subprocess_eff[cmsRun1] = 87.91680570372804 %
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5085/Job_5085041.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_5085041/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5083/Job_5083751.tar.bz2
+There was an error collecting stats from report: /data/cmst1-tmp/scratch/Job_5083751/Report.0.pkl. Skip
+'ConfigSection' object has no attribute 'stopTime'
+---------------------------------
+Report file: ../pdmvserv_task_HIG-Run3Summer22EEMiniAODv4-00018__v1_T_231116_235905_8905/JobCluster_5478/Job_5478811.tar.bz2
+WMTimes collected: {'WM_wrapper': 6081.0, 'cmsRun1': 119.41565418243408, 'cmsRun1--WMCMSSWSubprocess': 82.74543523788452, 'cmsRun1--TotalJobTime': 79.3743, 'stageOut1': 3676.5141162872314, 'logArch1': 2283.1974952220917}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.96920351408909 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 95.9258958174637
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 1.3052836704489394 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 1.3607208557455108 %
+WM_subprocess_eff[cmsRun1] = 95.9258958174637 %
