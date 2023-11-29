@@ -1,0 +1,46 @@
+file = ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_6598/Job_6598084.tar.bz2
+file = ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_6700/Job_6700988.tar.bz2
+file = ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_6696/Job_6696753.tar.bz2
+file = ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_7046/Job_7046161.tar.bz2
+file = ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_7023/Job_7023384.tar.bz2
+---------------------------------
+Report file: ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_6598/Job_6598084.tar.bz2
+WMTimes collected: {'WM_wrapper': 1971.0, 'cmsRun1': 1960.0336921215057, 'cmsRun1--WMCMSSWSubprocess': 1827.5959815979004, 'cmsRun1--TotalJobTime': 1822.83, 'stageOut1': 3.639439582824707, 'logArch1': 3.5628879070281982}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.80903194375234 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.73922126958644
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 92.48249619482496 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 92.72430145093355 %
+WM_subprocess_eff[cmsRun1] = 99.73922126958644 %
+---------------------------------
+Report file: ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_6700/Job_6700988.tar.bz2
+WMTimes collected: {'WM_wrapper': 1982.0, 'cmsRun1': 1694.0372014045715, 'cmsRun1--WMCMSSWSubprocess': 1656.2802696228027, 'cmsRun1--TotalJobTime': 1654.08, 'stageOut1': 283.81210827827454, 'logArch1': 1.5475115776062012}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.86865899396832 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.86715596006563
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 83.45509586276488 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 83.56610845725544 %
+WM_subprocess_eff[cmsRun1] = 99.86715596006563 %
+---------------------------------
+Report file: ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_6696/Job_6696753.tar.bz2
+WMTimes collected: {'WM_wrapper': 982.0, 'cmsRun1': 957.7312185764313, 'cmsRun1--WMCMSSWSubprocess': 921.7617554664612, 'cmsRun1--TotalJobTime': 919.039, 'stageOut1': 19.740976572036743, 'logArch1': 1.717501163482666}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.71381836170578 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.70461396881417
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 93.58849287169043 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 93.86575921247059 %
+WM_subprocess_eff[cmsRun1] = 99.70461396881417 %
+---------------------------------
+Report file: ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_7046/Job_7046161.tar.bz2
+WMTimes collected: {'WM_wrapper': 26.0, 'logCollect1': 24.24964451789856}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 93.26786353037907 %
+- cmsRun metrics
+---------------------------------
+Report file: ../wangz_ACDC0_Run2017C_DoubleEG_UL2017_MiniAODv2_BParking_231127_123135_330/JobCluster_7023/Job_7023384.tar.bz2
+WMTimes collected: {'WM_wrapper': 345.0, 'cmsRun1': 331.795654296875, 'cmsRun1--WMCMSSWSubprocess': 303.45937156677246, 'cmsRun1--TotalJobTime': 301.001, 'stageOut1': 8.768742561340332, 'logArch1': 1.4860687255859375}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.14506248805834 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.1898844467779
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 87.24666666666666 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 87.95923813529637 %
+WM_subprocess_eff[cmsRun1] = 99.1898844467779 %

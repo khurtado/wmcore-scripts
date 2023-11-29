@@ -1,0 +1,34 @@
+file = ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6859/Job_6859066.tar.bz2
+file = ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6598/Job_6598958.tar.bz2
+file = ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6856/Job_6856493.tar.bz2
+file = ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6848/Job_6848429.tar.bz2
+file = ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6835/Job_6835893.tar.bz2
+---------------------------------
+Report file: ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6859/Job_6859066.tar.bz2
+WMTimes collected: {'WM_wrapper': 13.0, 'logCollect1': 11.037930488586426}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 84.90715760451096 %
+- cmsRun metrics
+---------------------------------
+Report file: ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6598/Job_6598958.tar.bz2
+WMTimes collected: {'WM_wrapper': 2446.0, 'cmsRun1': 2434.6468822956085, 'cmsRun1--WMCMSSWSubprocess': 2392.7135741710663, 'cmsRun1--TotalJobTime': 2388.69, 'stageOut1': 4.883766174316406, 'logArch1': 4.474592208862305}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 99.91844810624642 %
+- cmsRun metrics
+[cmsRun1] Efficiency of cmsRun step TotalJobTime vs WMCMSSWSubprocess = 99.83184054228221
+Total Efficiency of cmsRuns totalJobTime vs Wrapper WC Time= 97.65699100572364 %
+Total Efficiency of cmsRuns SubProcess WC Times vs Wrapper WC Time = 97.8214870879422 %
+WM_subprocess_eff[cmsRun1] = 99.83184054228221 %
+---------------------------------
+Report file: ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6856/Job_6856493.tar.bz2
+WMTimes collected: {'WM_wrapper': 73.0, 'cleanupUnmergedNANOEDMAODoutput': 70.52047443389893}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 96.60338963547798 %
+- cmsRun metrics
+---------------------------------
+Report file: ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6848/Job_6848429.tar.bz2
+WMTimes collected: {'WM_wrapper': 10.0, 'cleanupUnmergedNANOEDMAODoutput': 7.570806980133057}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 75.70806980133057 %
+- cmsRun metrics
+---------------------------------
+Report file: ../wangz_ACDC0_Run2022C_ZeroBias_JMENano12p5_231127_123302_9303/JobCluster_6835/Job_6835893.tar.bz2
+WMTimes collected: {'WM_wrapper': 25.0, 'logCollect1': 22.584717273712158}
+Efficiency of SumOfAllSteps vs Wrapper (WC time) = 90.33886909484863 %
+- cmsRun metrics
